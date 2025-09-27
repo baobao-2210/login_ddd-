@@ -65,6 +65,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Toast.makeText(MainActivity.this, "Chức năng Quên mật khẩu đang phát triển", Toast.LENGTH_SHORT).show();
             }
+
         });
     }
+    //đăng nhập
 }
