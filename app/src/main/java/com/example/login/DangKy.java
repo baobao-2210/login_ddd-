@@ -46,5 +46,6 @@ public class DangKy extends AppCompatActivity {
                 finish(); // <<< DÒNG NÀY SẼ ĐÓNG ACTIVITY HIỆN TẠI
             }
         });
+        //baitap
     }
 }
