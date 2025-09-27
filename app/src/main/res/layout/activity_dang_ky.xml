@@ -81,5 +81,5 @@ app:layout_constraintEnd_toEndOf="parent"
 app:layout_constraintStart_toStartOf="parent"
 app:layout_constraintTop_toBottomOf="@id/editTextTextPassword2"
 app:layout_constraintWidth_percent="0.5" />
-
+//đăng Kí
     </androidx.constraintlayout.widget.ConstraintLayout>
