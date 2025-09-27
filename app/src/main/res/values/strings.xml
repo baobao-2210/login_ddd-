@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="title_register">ĐĂNG KÝ TÀI KHOẢN</string>
+    <string name="hint_username">Tên đăng nhập</string>
+    <string name="hint_password">Nhập mật khẩu</string>
+    <string name="hint_confirm_password">Nhập lại mật khẩu</string>
+    <string name="button_register">Đăng ký</string>
+    <string name="title_login">ĐĂNG NHẬP</string>
+    <string name="button_login">Đăng nhập</string>
+    <string name="link_register">Đăng ký</string>
+    <string name="link_forgot_password">Quên mật khẩu ?</string>
+</resources>
